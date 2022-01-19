@@ -4,3 +4,12 @@
 *Repositorio teste!*
 
 Essa linha foi adicionada pelo site.
+
+## COLUNA
+
+Num | Item
+---|---|
+1 | Tênis
+2 | Bermuda 
+3 | Camisa
+Ok.
