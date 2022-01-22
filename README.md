@@ -6,7 +6,7 @@
 Essa linha foi adicionada pelo site.
 
 
-*Estudo do _MD_.*
+_Estudo do *MD*._
 ## COLUNA
 
 Num | Item
@@ -17,6 +17,6 @@ Num | Item
 Ok.
 
 # COMPRAR!
-[x] Tênis
-[] Bermuda
-[x] Camisa
+- [x] Tênis
+- [] Bermuda
+- [x] Camisa
