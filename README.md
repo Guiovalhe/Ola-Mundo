@@ -3,7 +3,7 @@
 
 *Repositorio teste!*
 
-``Essa linha foi adicionada pelo site.``
+`Essa linha foi adicionada pelo site.`
 
 # Estudo do _**MD**_.
 
@@ -14,9 +14,8 @@ Num | Item | Valor
 3 | Camisa | 100$
 
 Ok.
-``
+
 ### **COMPRAR!**
 - [x] Tênis
 - [ ] Bermuda
 - [x] Camisa
-```
