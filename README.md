@@ -13,7 +13,7 @@ Num | Item | Valor
 2 | Bermuda | 75$
 3 | Camisa | 100$
 
-Ok.
+***
 
 ### **COMPRAR!**
 - [x] Tênis
