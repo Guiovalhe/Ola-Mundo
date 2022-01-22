@@ -18,5 +18,5 @@ Ok.
 
 # COMPRAR!
 - [x] Tênis
-- [] Bermuda
+- [ ] Bermuda
 - [x] Camisa
