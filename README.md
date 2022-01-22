@@ -7,11 +7,13 @@
 
 # Estudo do _**MD**_.
 ```
+
 Num | Item | Valor
 ---|---|---
 1 | Tênis | 350$
 2 | Bermuda | 75$
 3 | Camisa | 100$
+
 ```
 Ok.
 
