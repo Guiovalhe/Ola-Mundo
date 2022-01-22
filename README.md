@@ -3,20 +3,18 @@
 
 *Repositorio teste!*
 
-Essa linha foi adicionada pelo site.
+`Essa linha foi adicionada pelo site.`
+---
+### _Estudo do **MD**._
 
-
-_Estudo do *MD*._
-## COLUNA
-
-Num | Item
----|---|
-1 | Tênis
-2 | Bermuda 
-3 | Camisa
+Num | Item | Valor
+---|---|---
+1 | Tênis | 350$
+2 | Bermuda | 75$
+3 | Camisa | 100$
 Ok.
 
-# COMPRAR!
+# **COMPRAR!**
 - [x] Tênis
 - [ ] Bermuda
 - [x] Camisa
