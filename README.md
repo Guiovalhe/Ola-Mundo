@@ -3,15 +3,16 @@
 
 *Repositorio teste!*
 
-`Essa linha foi adicionada pelo site.`
+```Essa linha foi adicionada pelo site.```
 ---
-### _Estudo do **MD**._
+### Estudo do _**MD**_.
 
 Num | Item | Valor
 ---|---|---
 1 | Tênis | 350$
 2 | Bermuda | 75$
 3 | Camisa | 100$
+
 Ok.
 
 # **COMPRAR!**
