@@ -5,7 +5,7 @@
 
 ```Essa linha foi adicionada pelo site.```
 ---
-### Estudo do _**MD**_.
+# Estudo do _**MD**_.
 
 Num | Item | Valor
 ---|---|---
@@ -15,7 +15,7 @@ Num | Item | Valor
 
 Ok.
 
-# **COMPRAR!**
+### **COMPRAR!**
 - [x] Tênis
 - [ ] Bermuda
 - [x] Camisa
