@@ -5,6 +5,8 @@
 
 Essa linha foi adicionada pelo site.
 
+
+*Estudo do _MD_.*
 ## COLUNA
 
 Num | Item
@@ -13,3 +15,8 @@ Num | Item
 2 | Bermuda 
 3 | Camisa
 Ok.
+
+# COMPRAR!
+[x] Tênis
+[] Bermuda
+[x] Camisa
