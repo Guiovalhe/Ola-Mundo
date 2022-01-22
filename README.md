@@ -19,3 +19,20 @@ Ok.
 - [x] Tênis
 - [ ] Bermuda
 - [x] Camisa
+
+
+### Formulas:
+**Sheet:**
+```
+Num | Item | Valor
+---|---|---
+1 | Tênis | 350$
+2 | Bermuda | 75$
+3 | Camisa | 100$
+```
+**Checklist:**
+```
+- [x] Tênis
+- [ ] Bermuda
+- [x] Camisa
+```
